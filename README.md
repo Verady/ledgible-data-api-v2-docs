@@ -4,7 +4,7 @@
 ## Overview
 This repository serves to provide helpful resources and augmentary documentation to support users of the Ledgible V2 Data API.
 
-Detailed API documentation can be found here: [Ledgible Data API V2 Documentation](https://data-api.ledgible.io/api/v2/docs#tag/Welcome)
+Detailed API documentation and downloadable JSON file can be found here: [Ledgible Data API V2 Documentation](https://data-api.ledgible.io/api/v2/docs#tag/Welcome)
 
 ## API Testing
 
