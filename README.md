@@ -6,7 +6,7 @@ This repository serves to provide helpful resources and augmentary documentation
 
 Detailed API documentation can be found here: [Ledgible Data API V2 Documentation](https://data-api.ledgible.io/api/v2/docs#tag/Welcome)
 
-## Collection for Insomnia / Postman / etc.
+## API Testing
 
 To test locally with this API, you can utilize the included collection documents or the buttons below to populate the collection in your preferred API testing tool. These collections are updated periodically, but are not guaranteed to be in sync with the latest changes. Please refer to the official documentation link above for the most up-to-date reference.
 
