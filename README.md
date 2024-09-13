@@ -12,5 +12,7 @@ To test locally with this API, you can utilize the included collection documents
 
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/838548-6e0efaff-a670-4d50-b168-86082c051e93?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D838548-6e0efaff-a670-4d50-b168-86082c051e93%26entityType%3Dcollection%26workspaceId%3D423814dc-d61e-49ec-8ede-2017d333e81f)
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ledgible%20Data%20API%20V2&uri=https%3A%2F%2Fdata-api.ledgible.io%2Fapi%2Fv2%2Fdocs.json)
+
 ## Data Flow Diagram
 <img width="2254" alt="Ledgible V2 API Consumer_Customer Flow" src="https://github.com/user-attachments/assets/a290db4e-d835-4bf2-9865-28948d45e7b3">
