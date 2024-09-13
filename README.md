@@ -1,5 +1,5 @@
 
-# ledgible-data-docs - API V2
+# Ledgible Data API Docs - V2
 
 ## Client Routes
 The following guide explains the routes available to Ledgible OAuth clients for interaction with the Ledgible API, including required query parameters and URL formats.
